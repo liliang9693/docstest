@@ -1,4 +1,10 @@
-# 一级标题
+---
+title: File 1
+permalink: /file1
+---
+
+<!-- Your site content here -->
+# 一级标题test1
 
 正文
 
