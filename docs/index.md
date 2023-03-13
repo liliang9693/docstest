@@ -1,5 +1,6 @@
 ---
 title: test docs
+layout: default
 ---
 
 <!-- Your site content here -->
