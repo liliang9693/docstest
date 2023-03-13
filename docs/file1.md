@@ -7,6 +7,7 @@ permalink: /file1
 # 一级标题test1
 
 正文
+[Link button](https://unihiker.com/){: .btn }
 
 **加粗**
 
