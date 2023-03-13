@@ -1,6 +1,6 @@
 ---
 title: File 1
-permalink: /file1
+permalink: /docstest/file1
 ---
 
 <!-- Your site content here -->
